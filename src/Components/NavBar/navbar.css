@@ -1,0 +1,29 @@
+.navegacion {
+  width: 100%;
+  height: 100px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: space-around;
+  line-height: 100px;
+  position: fixed;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.links {
+  display: flex;
+  column-gap: 30px;
+}
+
+.logo {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+
